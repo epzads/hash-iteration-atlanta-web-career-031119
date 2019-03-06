@@ -22,6 +22,6 @@ passengers.each do |k,v|
 
    end    
 
-
+ return winner 
 
 end
